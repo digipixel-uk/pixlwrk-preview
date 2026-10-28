@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PixlWrk Journal</title>
+    <link>https://digipixel.uk/journal</link>
+    <description>Practical thinking on websites, digital strategy, marketing, systems and automation.</description>
+    <language>en-gb</language>
+    <item>
+      <title>Website redesign or rebuild: how to decide what you actually need</title>
+      <link>https://digipixel.uk/journal/website-redesign-or-rebuild-how-to-decide</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/website-redesign-or-rebuild-how-to-decide</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
+      <description>A dated website does not automatically need replacing. Here is how to separate design problems, content problems, technical problems and structural problems before committing to a rebuild.</description>
+      <category>Websites</category>
+    </item>
+    <item>
+      <title>Small-business SEO: fix the foundations before publishing more content</title>
+      <link>https://digipixel.uk/journal/small-business-seo-foundations-before-more-content</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/small-business-seo-foundations-before-more-content</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
+      <description>SEO is not a race to publish the most articles. Strong results usually begin with technical accessibility, clear service pages, search intent and sensible internal structure.</description>
+      <category>SEO</category>
+    </item>
+    <item>
+      <title>PPC: what to fix before increasing your Google Ads budget</title>
+      <link>https://digipixel.uk/journal/ppc-before-increasing-google-ads-budget</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/ppc-before-increasing-google-ads-budget</guid>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+      <description>More ad spend can amplify a good acquisition route—or expose a weak one faster. Check targeting, tracking, landing pages and lead quality before simply raising the budget.</description>
+      <category>PPC</category>
+    </item>
+    <item>
+      <title>Social media marketing: choose the right channels instead of trying to be everywhere</title>
+      <link>https://digipixel.uk/journal/social-media-marketing-choose-the-right-channels</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/social-media-marketing-choose-the-right-channels</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <description>A business does not need to post on every social network. Decide what role social should play, where the audience pays attention and what content the team can sustain well.</description>
+      <category>Social media</category>
+    </item>
+    <item>
+      <title>A practical digital marketing plan for a small business</title>
+      <link>https://digipixel.uk/journal/practical-digital-marketing-plan-for-small-business</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/practical-digital-marketing-plan-for-small-business</guid>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <description>A digital marketing plan does not need twenty channels and a huge deck. It needs a clear audience, proposition, acquisition route, conversion journey and measurement rhythm.</description>
+      <category>Digital strategy</category>
+    </item>
+    <item>
+      <title>Where AI and automation actually help a small business</title>
+      <link>https://digipixel.uk/journal/where-ai-automation-actually-helps-small-business</link>
+      <guid isPermaLink="true">https://digipixel.uk/journal/where-ai-automation-actually-helps-small-business</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description>The best automation projects usually begin with a repetitive process and a clear hand-off—not with a tool. Here is how to spot useful AI and workflow opportunities without automating confusion.</description>
+      <category>Systems &amp; AI</category>
+    </item>
+  </channel>
+</rss>

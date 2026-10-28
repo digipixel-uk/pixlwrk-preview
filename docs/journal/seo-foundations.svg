@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="SEO foundations">
+  <rect width="1600" height="900" fill="#080b0e"/>
+  <circle cx="1210" cy="450" r="300" fill="none" stroke="#172027" stroke-width="2"/>
+  <circle cx="1210" cy="450" r="420" fill="none" stroke="#111920" stroke-width="2"/>
+  <path d="M110 705 H470 C560 705 565 585 655 585 H910 C1000 585 1005 465 1095 465 H1490" fill="none" stroke="#26333b" stroke-width="4"/>
+  <path d="M110 705 H470 C560 705 565 585 655 585 H910 C1000 585 1005 465 1095 465 H1320" fill="none" stroke="#58dcff" stroke-width="5"/>
+  <circle cx="470" cy="705" r="12" fill="#58dcff"/><circle cx="655" cy="585" r="12" fill="#58dcff"/><circle cx="910" cy="585" r="12" fill="#58dcff"/><circle cx="1095" cy="465" r="12" fill="#58dcff"/><circle cx="1320" cy="465" r="18" fill="#58dcff"/>
+  <text x="110" y="135" fill="#58dcff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5">PIXLWRK JOURNAL</text>
+  <text x="110" y="235" fill="#f4f4ef" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800" letter-spacing="-5">SEO foundations</text>
+  <text x="115" y="290" fill="#8c969e" font-family="Arial, Helvetica, sans-serif" font-size="27">Build visibility on solid structure</text>
+  <g transform="translate(970 150)"><rect width="430" height="84" fill="#10151a" stroke="#394750" stroke-width="3"/><circle cx="44" cy="42" r="18" fill="none" stroke="#58dcff" stroke-width="5"/><path d="M58 56l20 20" stroke="#58dcff" stroke-width="5"/><rect x="94" y="31" width="244" height="20" fill="#f4f4ef"/><g transform="translate(0 120)"><rect width="430" height="54" fill="#11181d"/><rect x="24" y="19" width="214" height="15" fill="#60707a"/><rect y="70" width="430" height="54" fill="#11181d"/><rect x="24" y="89" width="170" height="15" fill="#60707a"/><rect y="140" width="430" height="54" fill="#11181d"/><rect x="24" y="159" width="250" height="15" fill="#60707a"/></g></g>
+</svg>
