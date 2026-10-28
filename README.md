@@ -1,16 +1,9 @@
-# Pixlwrk design review preview
+# Pixlwrk rebrand of the existing DigiPixel design
 
-This is a public, noindex **design review export**, not a production website.
+This public, noindex, non-production preview shows the approved live DigiPixel site layout with Pixlwrk branding and updated content. It is not a new website design.
 
-Original version: digipixel-uk/project-digipixel-website at commit bad2e7d (PR #24).
+Canonical source: digipixel-uk/project-digipixel-website commit 6d1daf9 (PR #25).
 
-Review build prepared 28 October 2026 using Next.js static export. No backend,
-WordPress content editing, real Forms API submissions, analytics or production
-application services are enabled here. The interactive frontend design, project
-pages and navigation are reviewable on desktop and mobile.
+The live route layout, typography, sections and colours are preserved. Technical case studies have been expanded. The review export intentionally excludes CMS editing, live Forms API submissions, analytics and optional frontend scripts. The original running frontend remains Next.js with headless WordPress; a native WordPress migration is a separate project.
 
-To regenerate, rebuild the isolated local export worktree with the fixed
-basePath /pixlwrk-preview and copy out/ into docs/. The project repository
-remains the canonical implementation source; do not edit exported bundles here.
-
-Do not treat this as an approved or production deployment.
+The intended branded preview hostname pixlwrk.preview.digipixel.uk has an A record published by authoritative nameservers to a preview host that is not serving HTTPS. Its changed SSH identity requires authorised out-of-band verification. Do not substitute this GitHub Pages address for the canonical branded hostname in release records.
